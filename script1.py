@@ -14,17 +14,13 @@ calcTotal(price,thetax,name)
 
 
 
-
-
-
 ####  PROBLEM 2  ####
 # print out ONLY the integers in the list below #
 list1 = [1,'two',3.2,'four',5]
 
 for i in list1:
-    if type(i) == int:
+    if type(i) == int:  #tells u what type the function is, can also use the if instance method which checks if i belongs to int class
         print(i) 
-
 
 
 
