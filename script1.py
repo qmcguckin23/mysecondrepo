@@ -13,7 +13,6 @@ thetax = 0.0825
 calcTotal(price,thetax,name)
 
 
-
 ####  PROBLEM 2  ####
 # print out ONLY the integers in the list below #
 list1 = [1,'two',3.2,'four',5]
